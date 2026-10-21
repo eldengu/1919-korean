@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+"""Build html/*.html from translation/*.md (markdown-it-py + footnote plugin).
+Run from anywhere: python3 rhee-neutrality-1912/tools/build_html.py
+Only chapters present in translation/ (i.e. published) are built and listed."""
+import pathlib, re, html as h
+from markdown_it import MarkdownIt
+from mdit_py_plugins.footnote import footnote_plugin
+root = pathlib.Path(__file__).resolve().parent.parent
+md = MarkdownIt("commonmark", {"typographer": False}).use(footnote_plugin).enable("table")
+CSS = """
+body{margin:0;background:#fbfaf7;color:#222;font-family:"Noto Serif KR","Nanum Myeongjo","Apple SD Gothic Neo","Malgun Gothic",serif;font-size:18px;line-height:1.85;word-break:keep-all}
+main{max-width:760px;margin:0 auto;padding:2.5rem 1.25rem 4rem}
+h1,h2,h3,h4{font-family:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;line-height:1.4;margin:2.2em 0 .6em}
+h1{font-size:1.75rem;border-bottom:2px solid #333;padding-bottom:.3em}
+h2{font-size:1.35rem}h3{font-size:1.15rem}h4{font-size:1.05rem;color:#444}
+p{margin:0 0 1.1em}
+blockquote{margin:1.5em 0;padding:.8em 1.2em;background:#f1eee6;border-left:4px solid #b9a77a;border-radius:4px}
+blockquote p{margin:.3em 0}
+a{color:#2b5797}
+sup.footnote-ref a{text-decoration:none;font-size:.75em}
+hr.footnotes-sep{margin-top:3rem;border:0;border-top:1px solid #bbb}
+section.footnotes{font-size:.88rem;line-height:1.65;color:#333}
+section.footnotes ol{padding-left:1.6em}
+ul{padding-left:1.4em}li{margin:.15em 0}
+nav.top{font-family:sans-serif;font-size:.85rem;margin-bottom:1rem}
+footer{margin-top:3rem;font-size:.8rem;color:#666;border-top:1px solid #ddd;padding-top:1rem}
+"""
+TPL = """<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{title}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+<style>{css}</style></head>
+<body><main>
+<nav class="top"><a href="index.html">목차</a></nav>
+{body}
+<footer>이승만(Syngman Rhee), <i>Neutrality as Influenced by the United States</i> (Princeton University Press, 1912)의 한국어 번역. 번역: 1919-korean 번역 프로젝트 (eldengu), <a href="https://creativecommons.org/licenses/by/4.0/deed.ko">CC BY 4.0</a>. 원문(링크): <a href="https://archive.org/details/neutralityasinf00rheegoog">archive.org</a> · <a href="https://hdl.handle.net/2027/hvd.32044038566824">HathiTrust</a> · <a href="https://github.com/eldengu/1919-korean">GitHub</a></footer>
+</main></body></html>
+"""
+out = root / "html"; out.mkdir(exist_ok=True)
+items = []
+for f in sorted(p for p in (root / "translation").glob("*.md") if ".before-" not in p.name):
+    src = f.read_text(encoding="utf-8")
+    m = re.search(r"^# (.+)$", src, re.M)
+    title = m.group(1).strip() if m else f.stem
+    (out / (f.stem + ".html")).write_text(TPL.format(title=h.escape(title), css=CSS, body=md.render(src)), encoding="utf-8")
+    items.append((f.stem, title))
+idx = "# 미국이 중립에 끼친 영향\n\n이승만(Syngman Rhee), 1912 — 한국어 번역\n\n" + "\n".join(f"- [{t}]({s}.html)" for s, t in items) + "\n" + "\n제2장부터는 하루에 한 장씩 공개합니다.\n"
+(out / "index.html").write_text(TPL.format(title="미국이 중립에 끼친 영향", css=CSS, body=md.render(idx)), encoding="utf-8")
+print("built", [s for s, _ in items])
