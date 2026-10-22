@@ -8,8 +8,9 @@
 |---|---|---|
 | [00-front-matter.md](translation/00-front-matter.md) | 속표지, 감사의 말, 목차 | [읽기](html/00-front-matter.html) |
 | [01-neutrality-down-to-1776.md](translation/01-neutrality-down-to-1776.md) | 제1장 서기 1776년까지의 중립의 역사 | [읽기](html/01-neutrality-down-to-1776.html) |
+| [02-neutrality-from-1776-to-1793.md](translation/02-neutrality-from-1776-to-1793.md) | 제2장 1776년부터 1793년까지의 중립의 역사 | [읽기](html/02-neutrality-from-1776-to-1793.html) |
 
-제2장~제6장: 예정 (하루 한 장씩 공개)
+제3장~제6장: 예정 (하루 한 장씩 공개)
 
 - 용어집: [glossary.md](glossary.md)
 - 저작권 검토 요약: [RIGHTS.md](RIGHTS.md)

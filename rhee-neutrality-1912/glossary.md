@@ -229,6 +229,9 @@
 | Wheaton | (헨리) 휘턴 | |
 | Sir Thomas Burnet | 토머스 버넷 경 | 원문 표기 그대로. 『당대사』의 저자는 길버트 버넷(Gilbert Burnet)이므로 필요 시 [역주]. |
 | Genet | 주네 | Edmond-Charles Genêt, 프랑스 공사. |
+| Hammond | 해먼드 | George Hammond, 미국 주재 영국 공사(제2장). |
+| Count Panin | 파닌 백작 | Nikita Panin, 러시아 제국 재상(제2장). |
+| the "Grange" | '그레인지'호 | 델라웨어만에서 프랑스 프리깃함에 나포된 영국 선박(1793, 제2장). |
 | Jay | (존) 제이 | Jay Treaty 참조. |
 | Monroe | 먼로 | |
 | Lincoln | 링컨 | |

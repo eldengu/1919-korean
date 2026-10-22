@@ -46,6 +46,6 @@ for f in sorted(p for p in (root / "translation").glob("*.md") if ".before-" not
     title = m.group(1).strip() if m else f.stem
     (out / (f.stem + ".html")).write_text(TPL.format(title=h.escape(title), css=CSS, body=md.render(src)), encoding="utf-8")
     items.append((f.stem, title))
-idx = "# 미국이 중립에 끼친 영향\n\n이승만(Syngman Rhee), 1912 — 한국어 번역\n\n" + "\n".join(f"- [{t}]({s}.html)" for s, t in items) + "\n" + "\n제2장부터는 하루에 한 장씩 공개합니다.\n"
+idx = "# 미국이 중립에 끼친 영향\n\n이승만(Syngman Rhee), 1912 — 한국어 번역\n\n" + "\n".join(f"- [{t}]({s}.html)" for s, t in items) + "\n" + "\n나머지 장은 하루에 한 장씩 공개합니다.\n"
 (out / "index.html").write_text(TPL.format(title="미국이 중립에 끼친 영향", css=CSS, body=md.render(idx)), encoding="utf-8")
 print("built", [s for s, _ in items])

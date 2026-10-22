@@ -18,7 +18,7 @@
 |---|---|---|
 | [`00-front-matter.md`](rhee-neutrality-1912/translation/00-front-matter.md) | 속표지, 감사의 말, 목차 | 공개 |
 | [`01-neutrality-down-to-1776.md`](rhee-neutrality-1912/translation/01-neutrality-down-to-1776.md) | 제1장 서기 1776년까지의 중립의 역사 | 공개 |
-| 제2장 | 1776년부터 1793년까지의 중립의 역사 | 예정 (하루 한 장씩 공개) |
+| [`02-neutrality-from-1776-to-1793.md`](rhee-neutrality-1912/translation/02-neutrality-from-1776-to-1793.md) | 제2장 1776년부터 1793년까지의 중립의 역사 | 공개 |
 | 제3장 ~ 제6장 | 1793–1818, 1818–1861, 1861–1872, 요약 | 예정 (하루 한 장씩 공개) |
 
 읽기용 HTML: [`rhee-neutrality-1912/html/`](rhee-neutrality-1912/html/index.html)
