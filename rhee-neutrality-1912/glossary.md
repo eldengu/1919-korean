@@ -146,6 +146,11 @@
 | neutral merchantmen | 중립 상선 | |
 | master (of a vessel) | 선장 | "give security" 보증을 서다. |
 | Armed Neutrality | 무장중립(동맹) | 첫 출현: 무장중립동맹(League of Armed Neutrality). First 제1차, Second 제2차. |
+| Embargo Act | 출항 금지법 | 제3장. |
+| Non-Intercourse Act | 통상 중단법 | 제3장. |
+| Neutrality Act of 1794 / 1818 | 1794년 / 1818년 중립법 | 제3장. |
+| Maritime Convention of St. Petersburg | 상트페테르부르크 해사 협약 | 1801년(제3장). |
+| colourable importation | 겉치레 수입 | 계속항해주의 관련(제3장). |
 
 ## 3. 조약·문서·법령
 
@@ -235,6 +240,13 @@
 | Jay | (존) 제이 | Jay Treaty 참조. |
 | Monroe | 먼로 | |
 | Lincoln | 링컨 | |
+| John Quincy Adams | 존 퀸시 애덤스 | 프로이센 주재 미국 전권대사(제3장). |
+| Sir William Scott | 윌리엄 스콧 경 | 영국 해사법원 판사(제3장). |
+| Justice Story | 스토리 판사 | Joseph Story, 미국 연방대법원 판사(제3장). |
+| Forsyth | 포시스 | John Forsyth, 미국 국무장관(제3장). |
+| Correa de Serra | 코헤아 데 세라 | 포르투갈 공사(제3장). |
+| Pinckney | 핑크니 | 프랑스 주재 미국 대표(제3장). |
+| "Freya", "Mercury", "Nereide", "Nancy", "Phoenix" | '프레이아'호, '머큐리'호, '네레이드'호, '낸시'호, '피닉스'호 | 선박·사건명(제3장). |
 
 ## 5. 지명·국가·기관
 
@@ -293,6 +305,10 @@
 | War of 1812 | 1812년 전쟁 | 미영전쟁. |
 | war of 1745 / war of 1756 | 1745년 전쟁 / 1756년 전쟁 | 각각 오스트리아 왕위 계승 전쟁, 7년 전쟁 시기. 원문 표기 유지. |
 | Anglo-Dutch war of 1653 | 1653년 영국-네덜란드 전쟁 | 제1차 영국-네덜란드 전쟁. |
+| Tripoli / Tunis / Morocco | 트리폴리 / 튀니스 / 모로코 | 제3장. |
+| Martinique / Guadeloupe | 마르티니크 / 과들루프 | 제3장. |
+| Carthagena | 카르타헤나 | 제3장. |
+| Directory (French) | 총재정부 | 제3장. |
 
 ## 6. 서명(書名)·라틴어 표현
 
@@ -329,3 +345,9 @@
 | ff. / Sec. / Vol. / Pt. / Ed. | 이하 / 절 / 권 / 부 / 판 | 각주 원문 유지, 해설 시 사용. |
 | A.D. | 서기 | |
 | i. e. | 곧, 즉 | |
+| Moore, Digest | 무어, 『국제법 요람』 | John Bassett Moore, A Digest of International Law (1906). 제3장. |
+| Wharton, Digest | 워턴, 『미국 국제법 요람』 | Francis Wharton, A Digest of the International Law of the United States. 무어의 책과 구별. 제3장. |
+| Moore, Arbitrations | 무어, 『국제 중재재판 사례집』 | 제3장. |
+| Martens, Nouveau Recueil | 마르텐스, 『신조약집성』 | 제3장. |
+| American State Papers | 『미국 국가문서집』 | 제3장. |
+| Statutes at Large | 『미합중국 법령집』 | 제3장. |
