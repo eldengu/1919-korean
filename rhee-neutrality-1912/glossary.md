@@ -1,6 +1,6 @@
 # 용어집 — 이승만, 『미국이 중립에 끼친 영향』(Neutrality As Influenced by the United States, 1912)
 
-번역 전체에서 용어를 일관되게 쓰기 위한 기준표입니다. 근거 자료는 1912년 영어 원문의 속표지·감사의 말·목차와 제1장이며, 제2~6장 용어는 목차에 나오는 항목을 바탕으로 미리 정했습니다.
+번역 전체에서 용어를 일관되게 쓰기 위한 기준표입니다. 근거 자료는 `source/00-front-matter.txt`(속표지·감사의 말·목차)와 `source/01-chapter-1.txt`(제1장)이며, 제2~6장 용어는 목차에 나오는 항목을 바탕으로 미리 정했습니다.
 
 **원칙**
 
@@ -351,3 +351,34 @@
 | Martens, Nouveau Recueil | 마르텐스, 『신조약집성』 | 제3장. |
 | American State Papers | 『미국 국가문서집』 | 제3장. |
 | Statutes at Large | 『미합중국 법령집』 | 제3장. |
+| privateering | 사략(私掠) | 제4장. 파리 선언 제1원칙. |
+| Marcy Amendment / American Amendment | 마시 수정안 / 미국 수정안 | 제4장. |
+| Holy Alliance | 신성동맹 | 제4장. |
+| legitimacy (doctrine of) | 정통주의 | 제4장. |
+| Congress of Paris (1856) | 파리 회의 | 제4장. |
+| fait accompli | 기정사실 | 제4장. 첫 출현: 기정사실(fait accompli). |
+| Foreign Enlistment Act (British, 1819) | 외국입대법 | 제4장. |
+| Hülseman letters | 휠제만 서한 | 제4장. 원문 철자 Hülseman. |
+| Kossuth | 코슈트 | 제4장. |
+| Lopez | 로페스 | 제4장. 쿠바 원정. |
+| Dudley Mann | 더들리 만 | 제4장. |
+| Henry Clay | 헨리 클레이 | 제4장. |
+| Daniel Webster | 웹스터 | 제4장. |
+| William L. Marcy | 마시 | 제4장. |
+| Gorostiza | 고로스티사 | 제4장. |
+| Lord Ashburton | 애슈버턴 경 | 제4장. |
+| 'Caroline' | '캐럴라인'호 | 제4장. 자위권 선례. |
+| 'Bolivar' | '볼리바르'호 | 제4장. |
+| 'St. Harlampy' | '세인트 할램피'호 | 제4장. |
+| San Jacinto | 산하신토 | 제4장. |
+| the Porte | 오스만 정부 | 제4장. 첫 출현: 오스만 정부(the Porte). |
+| brig / corvette / frigate | 쌍돛범선 / 코르벳함 / 프리깃함 | 제4장. |
+| Richardson, Messages | 리처드슨, 『대통령 교서집』 | 제4장 각주 표기(Messages). 제3장은 원문대로 Papers of the Presidents = 『대통령 문서집』. |
+| Schurz, Clay | 슈르츠, 『헨리 클레이의 생애』 | 제3·4장. |
+| Webster's Works | 『웹스터 저작집』 | 제4장. |
+| Wheaton, History of Law of Nations | 휘턴, 『국제법의 역사』 | 제4장. |
+| Boyd, Wheaton | 보이드 편, 휘턴 『국제법』 | 제4장. |
+| Bowles, Defense of Paris | 보울스, 『파리 선언 옹호』 | 제4장. |
+| Senate Documents, Foreign Relations | 『상원 문서, 외교 관계』 | 제4장. |
+| Parliamentary Papers | 『영국 의회 문서』 | 제4장. |
+| U. S. Supreme Court Reports | 『미합중국 대법원 판례집』 | 제4장. |
