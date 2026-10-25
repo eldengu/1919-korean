@@ -382,3 +382,42 @@
 | Senate Documents, Foreign Relations | 『상원 문서, 외교 관계』 | 제4장. |
 | Parliamentary Papers | 『영국 의회 문서』 | 제4장. |
 | U. S. Supreme Court Reports | 『미합중국 대법원 판례집』 | 제4장. |
+| Lord Russell / Earl Russell | 러셀 경 / 러셀 백작 | 제5장. 첫 출현: 러셀 경(Lord Russell), 백작 승작 뒤 러셀 백작. |
+| Lord Lyons | 라이언스 경 | 제5장. |
+| Seward | 수어드 | 제5장. 국무장관. |
+| Black (Jeremiah S.) | 블랙 | 제5장. 국무장관. |
+| Dayton | 데이턴 | 제5장. |
+| Chase (Chief Justice) | 체이스 | 제5장. |
+| Hamilton Fish | 피시 | 제5장. 국무장관. |
+| Wilkes | 윌크스 | 제5장. 트렌트호 사건. |
+| Mason and Slidell | 메이슨과 슬라이델 | 제5장. |
+| Hall | 홀 | 제5장. 국제법학자. |
+| Woolsey | 울지 | 제5장. |
+| Bernard (Mountague) | 버나드 | 제5장. 『영국의 중립 위반』. |
+| Thouvenel | 투브넬 | 제5장. |
+| Semmes | 셈스 | 제5장. 앨라배마호 함장. |
+| Earl of Clarendon | 클래런던 백작 | 제5장. |
+| Lord Stanley | 스탠리 경 | 제5장. |
+| Reverdy Johnson | 리버디 존슨 | 제5장. |
+| Charles Sumner | 찰스 섬너 | 제5장. |
+| Sir John Rose | 존 로즈 경 | 제5장. |
+| Johnson-Clarendon convention | 존슨-클래런던 협약 | 제5장. |
+| Ford v. Surget | 포드 대 서지트 | 제5장. |
+| 'Bermuda' / 'Peterhof' / 'Springbok' / 'Stephen Hart' | '버뮤다'호 / '피터호프'호 / '스프링복'호 / '스티븐 하트'호 | 제5장. 계속항해 판례. |
+| 'Florida' / 'Shenandoah' / 'Georgia' / 'Kearsarge' | '플로리다'호 / '섀넌도어'호 / '조지아'호 / '키어사지'호 | 제5장. |
+| Nassau / Matamoras | 나소 / 마타모로스 | 제5장. |
+| Birkenhead / Laird | 버컨헤드 / 레어드 조선소 | 제5장. |
+| Joint High Commission | 미영 고위 공동위원회 | 제5장. |
+| Mixed Commission | 혼합위원회 | 제5장. |
+| due diligence | 상당한 주의 | 제5장. 첫 출현: 상당한 주의(due diligence). |
+| de jure / de facto | 법률상 / 사실상 | 제5장. |
+| the Confederacy / the Union | 남부 연합 / 연방 | 제5장. |
+| transshipment | 환적 | 제5장. |
+| absolute contraband | 절대적 금제품 | 제5장. |
+| Foreign Enlistment Act of 1870 | 1870년 외국입대법 | 제5장. |
+| Case (British/American, Geneva) | 『주장서』 | 제5장. 첫 출현: 『주장서(Case)』. |
+| Diplomatic Correspondence (Dip. Cor.) | 『미국 외교 서한집』 | 제5장 각주. |
+| Papers Relating to the Treaty of Washington | 『워싱턴 조약 관련 문서』 | 제5장 각주. |
+| Declaration of London (1909) | 런던 선언 | 제5장 각주. |
+| Second Hague Conference, XIII Convention | 제2차 헤이그 회의 제13협약 | 제5장. |
+| (sic) | (원문 그대로) | 제5장. |
