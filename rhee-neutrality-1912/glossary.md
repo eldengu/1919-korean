@@ -421,3 +421,16 @@
 | Declaration of London (1909) | 런던 선언 | 제5장 각주. |
 | Second Hague Conference, XIII Convention | 제2차 헤이그 회의 제13협약 | 제5장. |
 | (sic) | (원문 그대로) | 제5장. |
+| Crimean War | 크림 전쟁 | 제6장(앞 장들과 같음). |
+| John W. Foster | 존 W. 포스터 | 제6장. |
+| Canning | 캐닝 | 제6장(제4장 George Canning과 같은 인물). |
+| continental system (Napoleon) | '대륙 봉쇄령' | 제6장. |
+| French Chambers | 프랑스 의회 | 제6장. |
+| treaty of amity and commerce (1778) | 우호통상조약 | 제6장. |
+| bona fide commercial transaction | 선의의 상거래 | 제6장. |
+| individual contraband trade | 개인의 금제품 거래 | 제6장. |
+| hostile expedition | 적대적 원정 | 제6장. |
+| bond of security | 보증금 | 제6장. |
+| London Conference of 1908–09 | 1908~09년 런던 회의 | 제6장. |
+| Western Hemisphere | 서반구 | 제6장. |
+| first / second Foreign Enlistment Act (US, 1794 / 1818) | 첫 외국입대법 / 두 번째 법 | 제6장. 저자가 1794년·1818년 중립법을 이렇게 부름. [역주]로 중립법임을 밝힘. |

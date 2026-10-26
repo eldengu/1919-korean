@@ -2,7 +2,7 @@
 
 한국 건국 시기의 문서를 쉬운 현대 한국어로 옮기는 저장소입니다. 미국 건국 문서를 옮기는 [eldengu/1776-korean](https://github.com/eldengu/1776-korean)의 자매 저장소입니다.
 
-- 첫 작품: 이승만(李承晩, Syngman Rhee)의 박사학위 논문 『미국이 중립에 끼친 영향』(*Neutrality as Influenced by the United States*, 1912) — 번역 진행 중
+- 첫 작품: 이승만(李承晩, Syngman Rhee)의 박사학위 논문 『미국이 중립에 끼친 영향』(*Neutrality as Influenced by the United States*, 1912) — 전체 번역 완료 (2026년 10월)
 
 ## 폴더
 
@@ -22,7 +22,7 @@
 | [`03-neutrality-from-1793-to-1818.md`](rhee-neutrality-1912/translation/03-neutrality-from-1793-to-1818.md) | 제3장 1793년부터 1818년까지의 중립의 역사 | 공개 |
 | [`04-neutrality-from-1818-to-1861.md`](rhee-neutrality-1912/translation/04-neutrality-from-1818-to-1861.md) | 제4장 1818년부터 1861년까지의 중립의 역사 | 공개 |
 | [`05-neutrality-from-1861-to-1872.md`](rhee-neutrality-1912/translation/05-neutrality-from-1861-to-1872.md) | 제5장 1861년부터 1872년까지의 중립의 역사 | 공개 |
-| 제6장 | 요약 | 예정 (내일 공개) |
+| [`06-summary-review.md`](rhee-neutrality-1912/translation/06-summary-review.md) | 제6장 요약 | 공개 |
 
 읽기용 HTML: [`rhee-neutrality-1912/html/`](rhee-neutrality-1912/html/index.html)
 

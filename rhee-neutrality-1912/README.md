@@ -12,8 +12,9 @@
 | [03-neutrality-from-1793-to-1818.md](translation/03-neutrality-from-1793-to-1818.md) | 제3장 1793년부터 1818년까지의 중립의 역사 | [읽기](html/03-neutrality-from-1793-to-1818.html) |
 | [04-neutrality-from-1818-to-1861.md](translation/04-neutrality-from-1818-to-1861.md) | 제4장 1818년부터 1861년까지의 중립의 역사 | [읽기](html/04-neutrality-from-1818-to-1861.html) |
 | [05-neutrality-from-1861-to-1872.md](translation/05-neutrality-from-1861-to-1872.md) | 제5장 1861년부터 1872년까지의 중립의 역사 | [읽기](html/05-neutrality-from-1861-to-1872.html) |
+| [06-summary-review.md](translation/06-summary-review.md) | 제6장 요약 | [읽기](html/06-summary-review.html) |
 
-제6장: 예정 (내일 공개)
+전체 번역 완료 (2026년 10월).
 
 - 용어집: [glossary.md](glossary.md)
 - 저작권 검토 요약: [RIGHTS.md](RIGHTS.md)
